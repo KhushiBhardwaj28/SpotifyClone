@@ -23,8 +23,8 @@ To run this project locally:
 git clone https://github.com/KhushiBhardwaj28/SpotifyClone.git
 cd SpotifyClone 
 # Then open index.html in your browser
-
+```
 ## ✍️ Author
-
 - [@KhushiBhardwaj28](https://github.com/KhushiBhardwaj28)
+
 
